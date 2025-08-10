@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "AwesomeProject",
-    "slug": "AwesomeProject",
+    "name": "Fast_food",
+    "slug": "Fast_food",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "awesomeproject",
+    "scheme": "fastfood",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {

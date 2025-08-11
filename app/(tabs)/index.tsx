@@ -10,6 +10,7 @@ import {
 } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import cn from "clsx";
+import { CartButt } from "@/components/CartButt";
 
 export default function Index() {
   return (
@@ -78,7 +79,7 @@ export default function Index() {
                   />
                 </TouchableOpacity>
               </View>
-              <Text>Cart</Text>
+              <CartButt />
             </View>
           );
         }}
